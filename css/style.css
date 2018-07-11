@@ -118,3 +118,10 @@ background: #ccc;
   height: 0;
   line-height: 0;
 }
+
+/*/////SECTIONS//////*/
+
+section {
+  margin-bottom: 20px;
+  padding: 20px;
+}
