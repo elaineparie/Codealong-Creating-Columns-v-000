@@ -93,6 +93,7 @@ img, video, audio {
 .col-1 {
   float: left;
   width: 32%;
+  background: #ccc;
 }
 
 .col-2 {
@@ -101,6 +102,7 @@ img, video, audio {
 }
 
 .col-3 {
+background: #ccc;
 }
 
 [class*="col-"] {
